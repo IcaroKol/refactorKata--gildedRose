@@ -39,3 +39,7 @@ Siéntase libre de hacer cualquier cambio en el método UpdateQuality y añadir 
 Sin embargo, no alteran la propiedad clase Item, pues esta clase al duende en la esquina que y se pondría furioso si sen entera, ya sabes el no cree en la propiedad colectiva del código.
 
 Sólo una aclaración, un artículo nunca puede tener su calidad por encima de 50, sin embargo "Sulfuras" es un objeto legendario y como tal su calidad es 80 y nunca se altera.
+
+========
+
+to run report coverage use mvn package
