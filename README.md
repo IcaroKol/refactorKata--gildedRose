@@ -22,12 +22,16 @@ Todos los artículos tienen un valor de calidad que denota lo valioso que el art
 Al final de cada día nuestro sistema reduce ambos valores para cada artículo,
 Bastante simple, ¿verdad? Pues aquí es donde se pone interesante:
 
-  Una vez que la fecha de caducidad ha pasado, la calidad se degrada dos veces más rápido
-  La calidad de un artículo nunca es negativo
-  El articulo "Brie Aged" en realidad aumenta en calidad cuanto más viejo se pone
-  Sin embargo la calidad de un artículo nunca es más de 50
-  "Sulfuras", al ser un objeto legendario, nunca debe ser vendido ni tampoco disminuye en la calidad
+  Una vez que la fecha de caducidad ha pasado, la calidad se degrada dos veces más rápido.
+  
+  La calidad de un artículo nunca es negativo.
+  
+  El articulo "Brie Aged" en realidad aumenta en calidad cuanto más viejo se pone; Sin embargo la calidad de un artículo nunca es más de 50.
+  
+  "Sulfuras", al ser un objeto legendario, nunca debe ser vendido ni tampoco disminuye en la calidad.
+  
   "Backstage passes", como "Brie Aged", Aumento su calidad de acuerdo a:
+  
      Aumenta la calidad por 2 cuando hay 10 o menos días y por 3 cuando hay 5 días o menos, pero la calidad se reduce a 0 después del concierto (sellIn 0)
 
 Hemos firmado recientemente con un proveedor de artículos conjurados. Esto requiere una actualización de nuestro sistema:
